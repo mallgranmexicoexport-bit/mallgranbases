@@ -239,25 +239,7 @@ section {
 
 /* Elements
 -------------------------------------------------------------- */
-html {
-  margin-right: 0 !important;
-  scroll-behavior: smooth;
-}
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Albert Sans", sans-serif;
-  font-size: 14px;
-  line-height: 22px;
-  font-weight: 400;
-  color: var(--main);
-  background-color: var(--white);
-}
 
 img {
   max-width: 100%;
